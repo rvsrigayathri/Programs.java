@@ -1,6 +1,6 @@
 package myprograms;
 import java.util.Scanner;
-class DecimaltoOctal {
+class DecimalToOctal {
     
     public static void Octal(int num,int count){
         int pow=1;
